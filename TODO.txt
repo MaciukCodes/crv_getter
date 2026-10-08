@@ -1,2 +1,4 @@
 possibly change the class so it can be a generator class?
-change 
+change so the class object is interactable like a list
+have the object also collect from next pages of the given url
+ajust so the url attribute is a list and have a non-public as the set

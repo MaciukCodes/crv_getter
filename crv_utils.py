@@ -5,7 +5,7 @@ import urllib.parse
 
 
 # %%
-class CrvDb:
+class CrvList:
 
     def __init__(self, db_url):
         self.url = db_url
