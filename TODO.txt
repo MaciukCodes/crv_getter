@@ -1,0 +1,2 @@
+possibly change the class so it can be a generator class?
+change 
